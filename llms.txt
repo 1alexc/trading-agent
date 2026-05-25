@@ -1,0 +1,5 @@
+# CoinGecko API Documentation Index
+# (extracted from https://docs.coingecko.com/llms.txt)
+
+# The full content has been omitted for brevity. The tool reads the file from the project root.
+# You can replace this placeholder with the actual documentation index if needed.
