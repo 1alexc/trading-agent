@@ -40,7 +40,7 @@ if not ALPHAVANTAGE_API_KEY:
 # ---------------------------------------------------------------------------
 # Rate‑limit handling
 # ---------------------------------------------------------------------------
-_RATE_LIMIT_FILE = Path(__file__).resolve().parents[2] / ".av_rate_limit.json"
+_RATE_LIMIT_FILE = Path(__file__).resolve().parents[1] / ".av_rate_limit.json"
 _RATE_LIMIT_MAX = 25
 
 _lock = threading.Lock()
